@@ -1,9 +1,9 @@
-# Roman Saksonov 
+# Roman Saksonov ()
 # Contact
 + +375 (33) 6966923
 + kramans1990@outlook.com</a>
 + [GitHub](https://github.com/kramans1990)
-+  Discord @kramans1990
++  Discord : @kramans1990
 *********
 # About Myself
 &emsp; My name is Roman. I am 31 years old and I work as a lead engineer. I have good soft skills and work well in a team. Now I study front-and development technologies.
