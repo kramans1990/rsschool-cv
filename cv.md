@@ -1,4 +1,4 @@
-# Roman Saksonov ()
+# Roman Saksonov
 # Contact
 + +375 (33) 6966923
 + kramans1990@outlook.com</a>
